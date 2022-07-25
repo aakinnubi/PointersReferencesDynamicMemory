@@ -52,4 +52,4 @@ void PrintInvoice(int* items, int size) {
         cout << "REF #: 0033474747744" << endl;
         cout << "Total Item Sold =" << size << endl;
         cout << "www.activision.com" << endl;
-}
+} 
